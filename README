@@ -1,0 +1,12 @@
+Worms for Linux! 0.0006-alpha
+
+Thank you for downloading Worms for Linux!
+
+REQUIREMENTS (Allegro 4.x):
+   Allegro homepage	https://liballeg.org/old.html
+
+Please begin by typing "./configure", and then "make"
+
+Type "./worms" to play!
+
+- Blake
